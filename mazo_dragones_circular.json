@@ -1,0 +1,25 @@
+{
+  "deck_name": "Dragones Circular Presión Constante",
+  "cards": [
+    {"name": "Kilgharrah", "qty": 3},
+    {"name": "Lady Calvaur", "qty": 2},
+    {"name": "Dragón de Magma", "qty": 3},
+    {"name": "Draco Conjurador", "qty": 3},
+    {"name": "Gran Wyrm", "qty": 2},
+    {"name": "Wyvern de Sangre", "qty": 3},
+    {"name": "Org, Maestro de Dragones", "qty": 3},
+    {"name": "Orium", "qty": 2},
+    {"name": "Dragón Nube", "qty": 3},
+    {"name": "Dragón Dorado", "qty": 2},
+    {"name": "Aliento de Luz", "qty": 2},
+    {"name": "Bola de Fuego", "qty": 2},
+    {"name": "Fe Sin Límite", "qty": 2},
+    {"name": "Monte Kilgharrah", "qty": 1},
+    {"name": "Milano Rojo", "qty": 3},
+    {"name": "Mercaderes", "qty": 3},
+    {"name": "Corona de Arturo", "qty": 3},
+    {"name": "Oro Dragones", "qty": 3},
+    {"name": "Arco Montadragón", "qty": 3},
+    {"name": "Espada Larga", "qty": 2}
+  ]
+}
